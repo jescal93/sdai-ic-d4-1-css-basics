@@ -1,7 +1,12 @@
 body {
-    background-color: whitesmoke;
+    background-color: #FDF5E6;
+    color: #004466;
 }
 
 p {
-    color: darkslategray;
+    color: #004466;
+}
+
+#EM {
+    color: #228B22;
 }
